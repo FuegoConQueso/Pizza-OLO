@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+
+.header-text {
+    width: 60%;
+    float: left;
+}
+
+.login-button, .signup-button, .cart-button {
+    width: auto;
+    float: left;
+}
+
+.header-div {
+    background-image: url( ../assets/pizzaria-pic-edited.jpg);
+    height: 50vh;
+    background-size: cover;
+    background-position: 1%;
+}
+

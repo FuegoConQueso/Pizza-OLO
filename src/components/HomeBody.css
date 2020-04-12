@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+
+.imgContainer {
+    max-height: 30vh;
+    aspect-ratio: 1;
+}
+
+.body-text {
+    float: center;
+    font-size: large;    
+}
+
+.specialty {
+    width: auto;
+    float: left;
+}
+
+.custom {
+    width: auto;
+    float: center;
+}
+
+.store-info {
+    width: 300px;
+    float: right;
+}
