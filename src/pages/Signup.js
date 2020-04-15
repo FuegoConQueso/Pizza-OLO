@@ -1,7 +1,7 @@
 import React from 'react';
-import './Cart.css';
+import './Signup.css';
 
-function Cart() {
+function Signup() {
     return (
         <div>
             
@@ -9,4 +9,4 @@ function Cart() {
     );
 }
 
-export default Cart;
+export default Signup;

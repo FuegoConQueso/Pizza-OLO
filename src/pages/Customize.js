@@ -1,7 +1,7 @@
 import React from 'react';
-import './Cart.css';
+import './Customize.css';
 
-function Cart() {
+function Customize() {
     return (
         <div>
             
@@ -9,4 +9,4 @@ function Cart() {
     );
 }
 
-export default Cart;
+export default Customize;

@@ -1,7 +1,7 @@
 import React from 'react';
-import './Cart.css';
+import './Login.css';
 
-function Cart() {
+function Login() {
     return (
         <div>
             
@@ -9,4 +9,4 @@ function Cart() {
     );
 }
 
-export default Cart;
+export default Login;
