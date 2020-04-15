@@ -12,15 +12,15 @@ class HomeBody extends Component {
             <br />
             <div>
                 <div className="specialty">
-                    Specialty Pizza's 
+                    Specialty Pizza's
                     <br />
                     <img className="imgContainer" src={SpecialtyImage}/>
                 </div>
                 <div className="custom">
-                    Custom Pizza's 
+                    Custom Pizza's
                 </div>
                 <div className="store-info">
-                    Info 
+                    Info
                 </div>
 
             </div>
