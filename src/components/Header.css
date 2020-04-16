@@ -9,7 +9,7 @@
 
 .login-button, .signup-button, .cart-button {
     width: auto;
-    float: left;
+    float: right;
 }
 
 .header-div {

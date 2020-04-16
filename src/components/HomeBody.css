@@ -18,11 +18,11 @@
 }
 
 .custom {
-    width: auto;
-    float: center;
+    width: 600px;
+    float: left;
 }
 
 .store-info {
-    width: 300px;
-    float: right;
+    width: 1000px;
+    float: center;
 }

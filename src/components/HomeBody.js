@@ -14,7 +14,9 @@ class HomeBody extends Component {
                 <div className="specialty">
                     Specialty Pizza's
                     <br />
-                    <img className="imgContainer" src={SpecialtyImage}/>
+                    <a href="/custom">
+                        <img className="imgContainer" src={SpecialtyImage}/>
+                    </a>
                 </div>
                 <div className="custom">
                     Custom Pizza's
