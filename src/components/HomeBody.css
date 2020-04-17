@@ -15,14 +15,22 @@
 .specialty {
     width: auto;
     float: left;
+    font-weight: bold;
 }
 
 .custom {
     width: 600px;
     float: left;
+    font-weight: bold;
 }
 
 .store-info {
-    width: 1000px;
+    width: 1100px;
+    float: center;
+    font-weight: bold;
+}
+
+.store-hours, .store-contact{
+    width: 1100px;
     float: center;
 }

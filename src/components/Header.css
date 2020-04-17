@@ -3,8 +3,10 @@
   }
 
 .header-text {
-    width: 60%;
+    width: 50%;
+    padding: 20px;
     float: left;
+    font-weight: bold;
 }
 
 .login-button, .signup-button, .cart-button {
