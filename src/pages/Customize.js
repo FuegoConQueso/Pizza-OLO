@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import Ingredient from '../components/Ingredient';
 import './Customize.css';
+import pizzaChoices from '../json/pizzaOptions.json';
 
 function Customize() {
     

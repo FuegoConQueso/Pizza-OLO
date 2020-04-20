@@ -8,15 +8,26 @@ class Header extends Component {
             <div className="header-text">
                 {this.props.text}
             </div>
-            <div className="login-button">
-                <button type="button">Log In</button>
-            </div>
-            <div className="signup-button">
-                <button type="button">Create Acccount</button>
-            </div>
+
             <div className="cart-button">
-                <button type="button">Cart</button>
+                <a href="/cart">
+                    <button type="button">Cart</button>
+                </a>
             </div>
+
+            <div className="signup-button">
+                <a href="/signup">
+                      <button type="button">Create Account</button>
+                </a>      
+            </div>
+
+            <div className="login-button">
+                <a href="/login">
+                    <button type="button">Log In</button>
+                </a>
+            </div>
+           
+           
         </div>
     );
   }
