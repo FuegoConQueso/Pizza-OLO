@@ -2,7 +2,6 @@ import React from 'react';
 import './Home.css';
 import Header from '../components/Header';
 import HomeBody from '../components/HomeBody';
-import { render } from '@testing-library/react';
 
 function Home() {
     return(
