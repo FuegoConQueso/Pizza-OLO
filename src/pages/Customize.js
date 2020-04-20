@@ -6,6 +6,7 @@ import './Customize.css';
 function Customize() {
     
     var ingredient1 = {name:"mushrooms", price:1.29};
+    
     return (
         <div>
             <Header text="Customize Your Pizza" />
