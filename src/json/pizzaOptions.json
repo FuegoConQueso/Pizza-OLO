@@ -1,0 +1,8 @@
+{
+    "size":["10", "12", "14", "16"],
+    "crust":["Hand-Tossed", "Thin"],
+    "cheeseAmount":["Less", "Normal", "Extra"],
+    "sauces":["Tomato", "BBQ", "Alfredo"],
+    "toppingsMeat":["Beef", "Ham", "Pepperoni", "Bacon", "Chicken", "Italian Sausage", "Salami"],
+    "toppingsOther":["Hot Sauce", "Jalepeno", "Onions", "Diced Tomatoes", "Mushrooms", "Green Peppers", "Spinach", "Roasted Red Peppers", "Cheddar", "Asiago", "Feta"]
+}
