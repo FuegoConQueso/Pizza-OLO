@@ -45,7 +45,7 @@ class HomeBody extends Component {
                         <br />
                         Phone: (202)-555-0133
                         <br />
-                        Address: 952 Snow Grove, MN
+                        Address: 952 Snow Grove
                     </div>
 
                  </div>

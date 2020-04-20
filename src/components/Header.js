@@ -17,7 +17,7 @@ class Header extends Component {
 
             <div className="signup-button">
                 <a href="/signup">
-                      <button type="button">Create Acccount</button>
+                      <button type="button">Create Account</button>
                 </a>      
             </div>
 
