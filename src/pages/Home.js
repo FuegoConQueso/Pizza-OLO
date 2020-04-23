@@ -6,9 +6,7 @@ import HomeBody from '../components/HomeBody';
 function Home() {
     return(
         <div className="App">
-            <header className="App-header">
-                <Header text="Welcome to Joey's Pizzaria!" />
-            </header>
+            <Header text="Welcome to Joey's Pizzaria!" />
 
             <div>
                 <HomeBody text="Order online, and have a hot pizza
