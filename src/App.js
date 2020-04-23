@@ -14,6 +14,8 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Customize from './pages/Customize';
 import Home from './pages/Home';
+import SelectPizza from './pages/SelectPizza';
+import Header from './components/Header';
 
 function App() {
   return (
@@ -23,6 +25,7 @@ function App() {
         <Route path="/login" component={Login} />
         <Route path="/signup" component={Signup} />
         <Route path="/custom" component={Customize} />
+        <Route path="/pizzas" component={SelectPizza} />
         <Route path="/" component={Home} />
       </Switch>
   </Router>

@@ -1,0 +1,8 @@
+
+[
+    {"name":"Cheese", "price":["7.99","9.99","11.99"], "image":"cheese.jpg"},
+    {"name":"Pepperoni", "price":["8.99","10.99","12.99"], "image":"pepperoni.jpg"},
+    {"name":"Veggie", "price":["9.99","11.99","13.99"], "image":"veggie.jpg"},
+    {"name":"Three Meat", "price":["10.99","12.99","14.99"], "image":"three-meat.jpg"},
+    {"name":"Deluxe", "price":["11.99","13.99","15.99"], "image":"deluxe.jpg"}
+]
