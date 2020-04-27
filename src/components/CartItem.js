@@ -13,7 +13,7 @@ class CartItem extends Component {
 
   render() {
       
-      const images = require.context('../../src/assets', true);
+      const images = require.context('../assets', true);
       return(
             <div className="subgrid-container">
                 <div className="grid-item row-start">
